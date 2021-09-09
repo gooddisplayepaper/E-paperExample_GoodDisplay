@@ -1,0 +1,19 @@
+..\obj\epd.o: ..\HARDWARE\EPD\epd.c
+..\obj\epd.o: ..\USER\stm32f10x.h
+..\obj\epd.o: ..\CORE\core_cm3.h
+..\obj\epd.o: D:\Program Files (x86)\Keil4\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\epd.o: ..\USER\system_stm32f10x.h
+..\obj\epd.o: ..\USER\stm32f10x_conf.h
+..\obj\epd.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\epd.o: ..\USER\stm32f10x.h
+..\obj\epd.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\epd.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\epd.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\epd.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\epd.o: ..\HARDWARE\EPD\driver.h
+..\obj\epd.o: ..\HARDWARE\EPD\epd.h
+..\obj\epd.o: ..\HARDWARE\EPD\data.h
+..\obj\epd.o: ..\HARDWARE\EPD\power.h
+..\obj\epd.o: ..\HARDWARE\EPD\board.h
+..\obj\epd.o: ..\HARDWARE\EPD\EPD_WAVEFORM.h
+..\obj\epd.o: ..\HARDWARE\EPD\AVT_CONFIG.h
