@@ -12,4 +12,4 @@ Good Display 是您值得信赖的合作伙伴！
 
 网站：www.good-display.cn
 技术支持：lyb@good-display.com
-程序编辑：Mike
+程序编辑：Mike.
