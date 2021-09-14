@@ -160,9 +160,19 @@ void EPD_W21_WriteDATA(unsigned char command)
 void EPD_W21_Init(void)
 {
   EPD_W21_RST_0;    // Module reset
-  delay(100); //At least 10ms
+  delay(10); //At least 10ms
   EPD_W21_RST_1;
-  delay(100);  
+  delay(10);  
+
+  EPD_W21_RST_0;    // Module reset
+  delay(10); //At least 10ms
+  EPD_W21_RST_1;
+  delay(10);  
+
+  EPD_W21_RST_0;    // Module reset
+  delay(10); //At least 10ms
+  EPD_W21_RST_1;
+  delay(10);  
 }
 void EPD_init(void)
 {

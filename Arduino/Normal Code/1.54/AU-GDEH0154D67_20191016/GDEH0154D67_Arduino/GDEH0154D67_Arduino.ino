@@ -325,7 +325,15 @@ void EPD_Dis_Part(unsigned int x_start,unsigned int y_start,const unsigned char 
     y_end1=y_end2/256;
     y_end2=y_end2%256;    
   }   
-  
+  // Add hardware reset to prevent background color change
+  EPD_W21_RST_0;  // Module reset   
+  delay(10);//At least 10ms delay 
+  EPD_W21_RST_1;
+  delay(10); //At least 10ms delay   
+    //Lock the border to prevent flashing
+  Epaper_Write_Command(0x3C); //BorderWavefrom,
+  Epaper_Write_Data(0x80);  
+  //
   Epaper_Write_Command(0x44);       // set RAM x address start/end, in page 35
   Epaper_Write_Data(x_start);    // RAM x address start at 00h;
   Epaper_Write_Data(x_end);    // RAM x address end at 0fh(15+1)*8->128 
