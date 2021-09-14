@@ -1,1 +1,0 @@
-The partial refresh scan mode is consistent with the full brush and is a horizontal scan.
