@@ -1,4 +1,4 @@
-# Good-Display
+# Good Display
 Good Display
 Welcome customers!
 The above procedures are provided by Mike. You are welcome to make valuable comments or suggestions,
