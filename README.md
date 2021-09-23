@@ -18,4 +18,4 @@ Good Display 是您值得信赖的合作伙伴！
 
 
 /*******************************************Version update description***************************/
-20210915:Upload e-paper driver   
+20210923:Upload e-paper driver   
