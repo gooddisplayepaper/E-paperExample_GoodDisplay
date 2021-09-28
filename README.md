@@ -3,7 +3,7 @@ Good Display
 Welcome customers!
 The above procedures are provided by Mike. You are welcome to make valuable comments or suggestions,
 Good Display is your trusted partner!
-Website: www.good-display.cn
+Website: www.good-display.com
 technical support: lyb@good -display.com
 Program editor: Mike
 
