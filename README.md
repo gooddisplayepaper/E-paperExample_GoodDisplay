@@ -6,6 +6,8 @@ Good Display is your trusted partner!
 Website: www.good-display.com
 technical support: lyb@good -display.com
 Program editor: Mike
+*These example codes are here for our old version development boards on STM32/Arduino/ESP32/ESP8266
+
 
 
 欢迎顾客光临！
