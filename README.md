@@ -1,4 +1,6 @@
-# Good Display
+# Good Display E-paper Library (Old version)
+
+
 Good Display
 Welcome customers!
 The above procedures are provided by Mike. You are welcome to make valuable comments or suggestions,
